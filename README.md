@@ -1,2 +1,2 @@
 # myproxy 
-myproxy は C言語で記述されたHTTPプロキシです
+myproxy は C言語で記述されたプロキシソフトウェアです。
